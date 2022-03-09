@@ -1,13 +1,13 @@
-#Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 Bu repo kodluyoruz FrontEnd eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet Readme dosyası, bir adet index.html dosyası mevcut
-##Installation
+## Installation
 Öncelikle projeyi clonelayın. (https://github.com/beytibeyt/kodluyoruzilkrepo.git)
-###Usage
+### Usage
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 cd kodluyoruz ilkrepo
 code .
-####Contributing
+#### Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-#####License
+##### License
 MIT
